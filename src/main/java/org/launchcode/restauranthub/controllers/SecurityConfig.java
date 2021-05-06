@@ -1,4 +1,4 @@
-package org.launchcode.restauranthub;
+package org.launchcode.restauranthub.controllers;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
